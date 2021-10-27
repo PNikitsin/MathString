@@ -1,0 +1,5 @@
+C:\Users\Pavel\source\repos\MathString\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\Pavel\source\repos\MathString\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\Pavel\source\repos\MathString\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\MathString\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\Pavel\source\repos\MathString\MathLibrary\obj\Debug\MathLibrary.pdb

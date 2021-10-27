@@ -1,0 +1,10 @@
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Release\TestProgram.exe.config
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Release\TestProgram.exe
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Release\TestProgram.pdb
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Release\MathLibrary.dll
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Release\MathLibrary.pdb
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Release\TestProgram.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Release\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Release\TestProgram.exe
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Release\TestProgram.pdb
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Release\TestProgram.csproj.CopyComplete

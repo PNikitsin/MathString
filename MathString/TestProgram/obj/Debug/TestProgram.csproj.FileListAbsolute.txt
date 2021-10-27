@@ -1,0 +1,9 @@
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Debug\TestProgram.exe
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Debug\TestProgram.pdb
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Debug\TestProgram.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Debug\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Debug\TestProgram.exe
+C:\Users\Pavel\source\repos\MathString\TestProgram\obj\Debug\TestProgram.pdb
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Debug\MathLibrary.dll
+C:\Users\Pavel\source\repos\MathString\TestProgram\bin\Debug\MathLibrary.pdb
